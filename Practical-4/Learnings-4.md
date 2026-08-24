@@ -1,0 +1,3 @@
+In Problem-1 we learned how to create a singly linked list using nodes and pointers. We learned how to insert a new node at the front, end and a specific position by changing the links between the nodes. We also handled an invalid position by displaying an error instead of inserting the node incorrectly..
+
+In Problem-2 we learned how to delete a node by changing the link of the previous node and removing the required node. We also learned how to traverse the linked list normally and reverse-print it using recursion without modifying the original links.
